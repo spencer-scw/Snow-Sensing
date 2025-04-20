@@ -16,3 +16,7 @@ pyproject.toml
 
 # Data
 *.json
+images_train/*
+images_test/*
+
+temp*
